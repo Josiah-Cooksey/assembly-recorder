@@ -8,7 +8,7 @@ Allows the end-user to record step-by step processes for assembling (or disassem
 - Recording preview
 - Image snapshots
 - First and final frame previews
-- Optional ability to notes for each step
+- Optional ability to add notes for each step
 - Customisable output locations and file names using the native file explorer
 - Webcam channels switching
 
